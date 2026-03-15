@@ -13,6 +13,12 @@ This repository includes:
 - The ideas document that was the predecessor of the slides
 - Additional illustrations and examples that were cut due to time constraints
 
+## Tools
+
+- Slides: Created with OnlyOffice
+- Graphs: MermaidJS
+- Memes: Gimp
+
 ## Q&A
 
 If you have any questions or trauma related to this talk, please reach out to me via mail to `talks@nicolai-ort.com`. Any input helps me with improving this talk and potential future coverage of simmilar topics.

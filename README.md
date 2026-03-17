@@ -10,7 +10,7 @@ This repository includes:
 
 - The slides (as a pptx and pdf)
 - The images used (mostly memes and graphs) in their original format
-- The ideas document that was the predecessor of the slides
+- The ideas documents that were the predecessors to the slides (`monologes/*`)
 - Additional illustrations and examples that were cut due to time constraints
 
 ## Tools

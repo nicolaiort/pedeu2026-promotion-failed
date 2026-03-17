@@ -15,8 +15,9 @@ This repository includes:
 
 ## Tools
 
-- Slides: Created with OnlyOffice
+- Slides: OnlyOffice
 - Graphs: MermaidJS
+- Drawings: Excalidraw
 - Memes: Gimp
 
 ## Q&A

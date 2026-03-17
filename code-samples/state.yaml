@@ -1,0 +1,16 @@
+stage:
+    name: dev
+    assetid: 12345
+version:
+    current: 1.0.0
+    next: 1.0.1
+next_stages:
+    - name: qa
+      delay_days: 3
+history:
+    - version: 1.0.0
+      timestamp: 2026-03-24T12:00:00Z
+      run-id: 67890
+    - version: 0.12.3
+      timestamp: 2026-03-12T12:00:00Z
+      run-id: 34567

@@ -2,7 +2,7 @@
 
 This repository includes the slides, sources and samples for a talk i presented at Platform Engineering Day EU 2026 in Amsterdam - a co-located event at KubeCon/CloudNativeCon EU 2026.
 
-There will be a recording of the session that i will link here: TODO
+There will be a recording of the session that i will link here: <https://youtu.be/6nQJ61sTDyc>
 
 ## Overview
 
